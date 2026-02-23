@@ -34,7 +34,7 @@ CREATE TABLE task (
 ```
 
 4. Configure your database credentials in `db.php`.
-5. Open the application in your browser (e.g., `http://localhost/To-Do-list native/`).
+5. Open the application in your browser (e.g., `http://localhost/Daily Notes/`).
 
 ## Project Structure
 - `index.php`: The main controller and router.
